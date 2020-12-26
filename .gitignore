@@ -1,0 +1,16 @@
+/frontend/billtracking/.DS_Store
+/frontend/billtracking/build/
+/frontend/billtracking/node_modules/
+/dist/
+/frontend/billtracking/npm-debug.log*
+/frontend/billtracking/yarn-debug.log*
+/frontend/billtracking/yarn-error.log*
+/frontend/billtracking/test/unit/coverage/
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
